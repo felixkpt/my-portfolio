@@ -1,0 +1,48 @@
+.t-wrapper {
+    right: 0;
+    position: relative;
+    margin-left: 30px;
+    padding: 13px; 
+    .t {
+        width: 50px;
+        height: 25px;
+        border-radius: 20px;
+        border: 2px solid green;
+        background: yellow;
+        display: flex;
+        position: absolute;
+        top: -3px;
+        right: 0px;
+        z-index: 20;
+        justify-content: space-between;
+        align-items: center;
+        
+        &-icon {
+            width: 15px;
+            height: 15px;
+            border-radius: 10px;
+            transition: all 500ms ease-in-out;
+        }
+
+        &-icon.sun, &-icon.moon {
+             background: var(--theme-background-color);
+        }
+
+        .t-button {
+            width: 25px;
+            height: 25px;
+            position: absolute;
+            border-radius: 50%;
+            background: #999;
+            right: 0;
+            cursor: pointer;
+        }
+    }   
+
+}
+
+@media screen and (max-width: 768px) {
+    .t-wrapper {
+        margin: auto 30px;
+    }
+}

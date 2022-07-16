@@ -1,0 +1,16 @@
+.App {
+  height: 100%;
+  width: 100%;
+
+  &__main-page-content {
+    margin: auto 1vw;
+    min-height: 100vh;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .App__main-page-content {
+    margin: auto 2vw;
+  }
+}

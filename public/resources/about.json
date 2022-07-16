@@ -1,0 +1,18 @@
+{
+  "title": "FullStack Developer",
+  "summary": "<p>\n  I have experience of 3 years in the web tech industry with 1 year experience as a freelancer, \n  and over this period I have gained excellent knowledge in designing\n  and building elegent, robust, fast and secure websites.\n</p>\n<div>\n  <h3>Backend Developer</h3>\n  <p>\n    The applications I develop are powered by core PHP and frameworks such as Laravel and CodeIgniter.\n    I also create websites using WordPress whereby my main area of concentration is designing & creation of Wordpress Plugins & Themes.\n  </p>\n  <p>\n    Furthermore, I use Laravel to design and build tailored e-commerce websites with integration of popular payment methods\n    that follow advanced security practices.\n  </p>\n  <p>\n    I also have good knowledge in API design and development whereby I mostly use Laravel because \n    of the eloquent & secure API features that come with the framework.\n  </p>\n</div>\n<div>\n  <h3>Frontend Developer</h3>\n  <p>\n  On top of my frontend experience is the knowledge of core JavaScript, I have developed a number of websites using Vue.js, React.js & Node.js.\n  And for the purpose of storing data on the backend, most of the websites I develop use Laravel & Node.js.\n  </p>\n  <p>\n  With my vast exprience using CSS3, HTML5 & JavaScript, I design & build awesome UI (User Inerface).\n  Most of the websites that I have build used pure CSS & Bootstrap framework which resulted in more structured and predictable\n    design pattern.\n  </p>\n  <p>\n  For the past 1 year, I have also used TailWind CSS which is a great framework \n  that makes the process of designing and building modern looking websites hussle free.\n  </p>\n  <p>I also optimize webpages for search engines to easily understand the content of website,\n  and for advanced Search Engine Optimization (SEO), I setup structured Schema data.</p>\n  <p>\n  Last but not least, I oftenly use JavaScript and jQuery in building some parts of the User Interface \n  especially in dynamic content manipulation, navigations & dropdowns.\n  </p>\n</div>",
+  "personalDetails": [
+    {
+      "label": "Country",
+      "value": "Kenya"
+    },
+    {
+      "label": "Email",
+      "value": "felixkpt@gmail.com"
+    },
+    {
+      "label": "Contact No",
+      "value": "+254726021426"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "experience": [
+    {
+      "title": "Lead Developer",
+      "subTitle": "Everlasting Designers",
+      "start": "April 2022",
+      "end": "Present",
+      "description": "Project management, User experience, Visual Design"
+    },
+    {
+      "title": "Full Stack Developer",
+      "subTitle": "Design Unity",
+      "start": "January 2021",
+      "end": "April 2022",
+      "description": "Developing front end website architecture &  Developing back-end website applications"
+    },
+    {
+      "title": "Full Stack Developer",
+      "subTitle": "Shara Solutions",
+      "start": "April 2020",
+      "end": "January 2021",
+      "description": "Ensuring cross-platform optimization for mobile phones.<br>Ensuring responsiveness of applications"
+    },
+    {
+      "title": "Backend Developer",
+      "subTitle": "Diplo Coders",
+      "start": "September 2018",
+      "end": "March 2020",
+      "description": "Developing back-end website applications.<br>Creating servers and databases for functionality."
+    }
+  ],
+  "education": [
+    {
+      "title": "Uiversity of Eldoret",
+      "subTitle": "Chepkoilel",
+      "start": "September 2012",
+      "end": "November 2017",
+      "description": "Bsc Computer Science"
+    },
+    {
+      "title": "DKUT",
+      "subTitle": "Dedan Kimathi University of Technology",
+      "start": "April 2010",
+      "end": "September 2012",
+      "description": "Electrical & Electronics Engineering"
+    },
+    {
+      "title": "Kenya Secondary",
+      "subTitle": "Paul Boit High School",
+      "start": "November 2010",
+      "end": "January 2007",
+      "description": "Kenya Certificate of Secondary Education"
+    }
+  ]
+}
