@@ -35,7 +35,7 @@ const Portfolio = () => {
   useEffect(() => {
 
     const getPortfolio = async () => {
-      const data = await axios.get('/resources/portfolio.jsodn')
+      const data = await axios.get('/resources/portfolio.json')
       setCompanies(() => data.data)
     }
 
