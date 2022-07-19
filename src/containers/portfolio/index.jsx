@@ -108,16 +108,16 @@ const Portfolio = () => {
                           {product.images.map((image, k) => (
                             <div className="screenshot-wrapper" key={k}>
                               <div className="screenshot">
-                              <div className="overlay-text">
-                                <span>Preview</span>
-                              </div>
+                                <div className="overlay-text">
+                                  <span>Preview</span>
+                                </div>
                                 <img onClick={(e) => productToggler(e)} src={image} alt="" />
                               </div>
                             </div>
                           ))}
                         </div>
                         <div className="product-outcome">
-                          {product.outcome}
+                          <div dangerouslySetInnerHTML={{ __html: product.outcome }} />
                         </div>
                       </div>
                     </div>
