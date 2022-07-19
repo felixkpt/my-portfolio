@@ -116,6 +116,9 @@ const Portfolio = () => {
                             </div>
                           ))}
                         </div>
+                        <div className="product-outcome">
+                          {product.outcome}
+                        </div>
                       </div>
                     </div>
                   ))}
