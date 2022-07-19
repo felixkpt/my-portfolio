@@ -3,6 +3,7 @@ import PageHeader from '../../components/pageHeader'
 import './styles.scss'
 import { useState, useEffect } from 'react'
 import axios from 'axios'
+import InlineLoader from '../../components/loaders'
 
 const Portfolio = () => {
   const [previewImage, setPreviewImage] = useState('/images/Portfolio/Celebrities/Screenshot%202022-06-16%20133911.png');
@@ -29,19 +30,18 @@ const Portfolio = () => {
     }
   }
 
-  const [companies, setCompanies] = useState([])
+  const [companies, setCompanies] = useState(null)
 
   useEffect(() => {
 
     const getPortfolio = async () => {
-      const data = await axios.get('/resources/portfolio.json')
+      const data = await axios.get('/resources/portfolio.jsodn')
       setCompanies(() => data.data)
     }
 
     getPortfolio()
 
   }, [])
-
 
   const toggleCompany = (event) => {
     event.target.parentNode.closest('.portfolio__container__company-wrapper').querySelector('.portfolio__container__company__products-wrapper').classList.toggle('hidden')
@@ -81,7 +81,7 @@ const Portfolio = () => {
       <PageHeader pageTitle="My Portfolio" icon={<BsCalendar2Check size={30} />} />
       <div className="portfolio__container">
 
-        {companies.map((company, i) => (
+        {companies !== null ? (companies.map((company, i) => (
           <div className="portfolio__container__company-wrapper addhere" key={i}>
 
             <div className="portfolio__container__company">
@@ -123,7 +123,7 @@ const Portfolio = () => {
               </div>
             </div>
           </div>
-        ))}
+        ))) : <InlineLoader text="Loading..." />}
 
         <div className="product-preview hidden">
           <div className="product-preview__wrapper" onClick={(e) => productToggler(e)}>

@@ -26,9 +26,11 @@ const Home = () => {
           </div>
         </div>
         <div className="home__avatar">
-          <div className="clip-path-mirrage"></div>
-          <div className="home__avatar-wrapper">
-            <img src="/images/felix6.png" alt="Felix Avatar" />
+          <div className="home_avatar-inner">
+            <div className="clip-path-mirrage"></div>
+            <div className="home__avatar-wrapper">
+              <img src="/images/felix6.png" alt="Felix Avatar" />
+            </div>
           </div>
         </div>
       </div>

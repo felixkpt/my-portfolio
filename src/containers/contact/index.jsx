@@ -12,7 +12,7 @@ import InlineLoader from '../../components/loaders'
 import emailjs from '@emailjs/browser';
 
 const Contact = () => {
-  const [contacts, setContacts] = useState(null)
+  const [contacts, setContacts] = useState([])
 
   useEffect( () => {
     const getContacts = async () => {
@@ -50,7 +50,7 @@ const Contact = () => {
             <h1 className="c-title">Let's discuss your project</h1>
             <div className="c-info">
               {
-                contacts !== null ? 
+                contacts ? 
                 (
                   <>
                   <div className="c-info__item">
@@ -85,7 +85,7 @@ const Contact = () => {
             <form ref={formRef} onSubmit={handleSubmit}>
               <input type="hidden" name="to_name" value="Felix" />
               <div>
-                <input type="text" placeholder="Your Name" name="user_name" />
+                <input type="email" placeholder="Your Name" name="user_name" />
               </div>
               <div>
                 <input type="text" placeholder="Your Email" name="user_email" />
