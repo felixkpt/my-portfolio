@@ -10,7 +10,7 @@ import InlineLoader from '../../components/loaders'
 
 const Skills = () => {
 
-  const [skills, setSkills] = useState([])
+  const [skills, setSkills] = useState(null)
 
   useEffect(() => {
 
@@ -28,7 +28,7 @@ const Skills = () => {
       <PageHeader pageTitle="My Skills" icon={<BsBookshelf size={30} />} />
       <div className="skills__content-wrapper">
         {
-          skills ? (skills.map((item, i) => [
+          skills !== null ? (skills.map((item, i) => [
             <div key={i} id={item.id} className="skills__content-wrapper__inner-content">
               <Animate
                 play
