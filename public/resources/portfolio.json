@@ -10,8 +10,8 @@
         "url": "https://legalpremiums.com",
         "start": "January 2022",
         "end": "June 2022",
-        "description": "Legal Premiums is an insurance companies review website.<br>Our team used PHP, Laravel 9 for the backend development, Vanilla JavaScript, Vue.js and Tailwind CSS for the admin dashboard.<br>I played a key role in the front-end development whereby I used Tailwind CSS, HTML5 and jQuery with a bit of Vanilla JavaScript on creating dashboard functionalities for the website.<br>We used Git and GitHub in collaborating during the entire project's development life.",
-        "outcome": "In the end the project was completed and we delivered it to our client.<br>We received a few revisions, made the corrections as necessary and deployed the application.",
+        "description": "Legal Premiums is an insurance companies review website.<br>Our team used PHP, Laravel 9 for the backend development, Vanilla JavaScript, Vue.js and Tailwind CSS for the admin dashboard.<br>I played a key role in the front-end development whereby I used Tailwind CSS, HTML5 and jQuery with a bit of Vanilla JavaScript on creating dashboard functionalities for the website.<br>We used Git and GitHub as a master peace during the entire project's development life.",
+        "outcome": "In the end, the project was completed and we delivered it to our client.<br>We received a few revisions, made the corrections as necessary and deployed the application.",
         "images": [
           "/images/Portfolio/LegalPremiums/Screenshot%202022-07-13%20170515.png",
           "/images/Portfolio/LegalPremiums/Screenshot%202022-07-13%20170558.png",
@@ -25,7 +25,7 @@
         "url": "https://www.infosourcehub.com/",
         "start": "May 2022",
         "end": "Present",
-        "description": "Info Source Hub is a news website developed using PHP and WordPress.<br>Our team designed and created WordPress theme the powers the website. <br>On the Front-End part we were able to achieve the elegant design by use of Bootstrap CSS along with custom CSS3.<br>My role is developing WordPress theme that is used on the front-end part of the website.",
+        "description": "Info Source Hub is a news website developed using PHP and WordPress.<br>Our team designed and created WordPress theme that powers the website. <br>On the Front-End part we were able to achieve the elegant design by use of Bootstrap CSS along with custom CSS3.<br>I played a role in developing the WordPress theme that is used on the front-end part of the website.",
         "outcome": "So far we have received positive feedback from the client, we are still working on some features like login and register.",
         "images": [
           "/images/Portfolio/InfoSourceHub/Screenshot%202022-07-13%20154451.png",
