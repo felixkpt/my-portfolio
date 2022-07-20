@@ -21,7 +21,7 @@ const Home = () => {
           </div>
           <div className="home__details">
             <div className="home__details__tagline">
-              -- dedicated to exellence in every project that I undertake,
+              -- dedicated to excellence in every project that I undertake,
             </div>
           </div>
         </div>
