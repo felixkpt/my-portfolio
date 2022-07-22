@@ -98,7 +98,10 @@ const Portfolio = () => {
                   <div className="before"></div>
                   {company.products.map((product, j) => (
                     <div className="portfolio__container__company__products__product" key={j}>
-                      <h4 className="heading"><span>{product.name}</span></h4>
+                      <h4 className="heading">
+                        <span className="title">{product.name}</span>
+                        <span className="timeline-p">{product.start} - {product.end}</span>
+                        </h4>
                       <div className="product-url"><a href={product.url} target="_blank" rel="noreferrer">{product.url}</a></div>
                       <div className="content">
                         <div className="description">

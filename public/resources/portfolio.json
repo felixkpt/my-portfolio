@@ -25,7 +25,7 @@
         "url": "https://www.infosourcehub.com/",
         "start": "May 2022",
         "end": "Present",
-        "description": "Info Source Hub is a news website developed using PHP and WordPress.<br>Our team designed and created WordPress theme that powers the website. <br>On the Front-End part we were able to achieve the elegant design by use of Bootstrap CSS along with custom CSS3.<br>I played a role in developing the WordPress theme that is used on the front-end part of the website.",
+        "description": "Info Source Hub is a news website developed using PHP and WordPress.<br>Our team designed and created WordPress theme that powers the website.<br>On the Front-End part we were able to achieve the elegant design by use of Bootstrap CSS along with custom CSS3.<br>I played a role in developing the WordPress theme that is used on the front-end part of the website and google API integration for user auth.",
         "outcome": "So far we have received positive feedback from the client, we are still working on some features like login and register.",
         "images": [
           "/images/Portfolio/InfoSourceHub/Screenshot%202022-07-13%20154451.png",
@@ -62,7 +62,7 @@
         "name": "LancerCommunity",
         "url": "https://lancercommunity.com/",
         "start": "August 2021",
-        "description": "LancerCommunity is a freelance reviewing platform that gives users who have worked with different freelancing companies the opportunity to post their views on the quality of services received from particular freelancing company.<br>We used Laravel for the backend development, and Tailwind CSS for the admin dashboard<br>On the Frontend, Bootstrap 5 was used with JavaScript.<br>My key roles on this project was designing the admin dashboard & styling it using Tailwind CSS.<br>I also wrote a some of Laravel scripts for the back-end functionalities of the website.<br>Since we were working on this project from remote, we were able to collaborate well by utilizing Git & GitHub .",
+        "description": "LancerCommunity is a freelance reviewing platform that gives users who have worked with different freelancing companies the opportunity to post their views on the quality of services received from particular freelancing company.<br>We used Laravel for the backend development, and Tailwind CSS for the admin dashboard<br>On the Frontend, Bootstrap 5 was used with JavaScript.<br>My key roles on this project was designing the admin dashboard & styling it using Tailwind CSS.<br>I also wrote a some of Laravel scripts for the back-end functionalities of the website.<br>Since we were working on this project from remote, we were able to collaborate well by utilizing Git & GitHub.",
         "outcome": "We were able to complete the project after following all the instructions that our client given us. The final product got excellent reputation from our stakeholders which contributed to our company becoming the most trusted in the country.",
         "images": [
           "/images/Portfolio/LancerCommunity/Screenshot%202022-06-16%20152716.png",
