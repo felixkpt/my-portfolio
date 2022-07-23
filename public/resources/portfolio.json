@@ -61,7 +61,8 @@
       {
         "name": "LancerCommunity",
         "url": "https://lancercommunity.com/",
-        "start": "August 2021",
+        "start": "September 2021",
+        "end": "January 2022",
         "description": "LancerCommunity is a freelance reviewing platform that gives users who have worked with different freelancing companies the opportunity to post their views on the quality of services received from particular freelancing company.<br>We used Laravel for the backend development, and Tailwind CSS for the admin dashboard<br>On the Frontend, Bootstrap 5 was used with JavaScript.<br>My key roles on this project was designing the admin dashboard & styling it using Tailwind CSS.<br>I also wrote a some of Laravel scripts for the back-end functionalities of the website.<br>Since we were working on this project from remote, we were able to collaborate well by utilizing Git & GitHub.",
         "outcome": "We were able to complete the project after following all the instructions that our client given us. The final product got excellent reputation from our stakeholders which contributed to our company becoming the most trusted in the country.",
         "images": [
