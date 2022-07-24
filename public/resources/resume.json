@@ -5,33 +5,33 @@
       "subTitle": "Everlasting Designers",
       "start": "January 2022",
       "end": "Present",
-      "description": "Project management, Project design & building<br>Technical User experience member<br>Backend design and implementation"
+      "description": "Project management and communicating with company's stakeholders<br>Overseeing design & implementation<br>Technical User experience support<br>API & backend development using PHP, Laravel/WordPress & Node.js"
     },
     {
       "title": "PHP & JavaScript Full Stack Developer",
       "subTitle": "Design Unity",
       "start": "February 2021",
       "end": "January 2022",
-      "description": "Developing front end website architecture &  Developing back-end website applications"
+      "description": "Developing front-end website architecture using HTML, Tailwind CSS, Bootstrap & JavaScript<br>Developing back-end part of website using Laravel/WordPress/CodeIgniter."
     },
     {
-      "title": "Full Stack Developer",
+      "title": "PHP Full Stack Developer",
       "subTitle": "Shara Solutions",
       "start": "December 2019",
       "end": "January 2021",
-      "description": "Backend development using Laravel & CodeIgniter<br>Ensuring cross-platform optimization for mobile APIs.<br>Ensuring responsiveness of applications"
+      "description": "On Shara Solutions, my tasks involved working on front-end section using Bootstrap, Custom CSS, & JavaScript. On the back-end I used PHP, Laravel & Node.js<br>Worked on API development for Vue.js front-end applications<br>Designing and writing MySQL queries.<br>Performing tests & writing documentations for applications"
     },
     {
       "title": "Backend Developer",
       "subTitle": "Diplo Coders",
       "start": "June 2018",
       "end": "November 2019",
-      "description": "Developing back-end website applications.<br>Creating servers and databases for functionality."
+      "description": "Involved in the process of project design & implementation<br>Developing back-end part of the projects using PHP, Laravel and WordPress.<br>I also wrote MySQL queries and configured website server."
     }
   ],
   "education": [
     {
-      "title": "Uiversity of Eldoret",
+      "title": "University of Eldoret",
       "subTitle": "Chepkoilel",
       "start": "September 2012",
       "end": "November 2017",
@@ -40,15 +40,15 @@
     {
       "title": "DKUT",
       "subTitle": "Dedan Kimathi University of Technology",
-      "start": "April 2010",
+      "start": "April 2009",
       "end": "September 2012",
       "description": "Electrical & Electronics Engineering"
     },
     {
-      "title": "Kenya Secondary",
+      "title": "Kenya Secondary Education",
       "subTitle": "Paul Boit High School",
-      "start": "November 2010",
-      "end": "January 2007",
+      "start": "January 2005",
+      "end": "November 2008",
       "description": "Kenya Certificate of Secondary Education"
     }
   ]
